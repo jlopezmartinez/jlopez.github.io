@@ -22,7 +22,15 @@ github: hjlopezmartinez # username
 twitter: jlopez_rz
 linkedin: jesuslopezmartinez
 stackoverflow: users/1484779/jlopez
-#Comment out if you don't want disqus 
+email: jesus.lopez@gmail.com
+email_full: mailto:youremail@me.com
+website: github.io/jlopezmartinez
+website_full: https://jlopezmartinez.github.io
+google_maps: 'https://www.google.es/maps/place/Zaragoza/@41.6516859,-0.9300004,13z/data=!4m13!1m7!3m6!1s0xd5914dd5e618e91:0x49df13f1158489a8!2sZaragoza!3b1!8m2!3d41.6488226!4d-0.8890853!3m4!1s0xd5914dd5e618e91:0x49df13f1158489a8!8m2!3d41.6488226!4d-0.8890853'
+address: Zaragoza
+postcode: 50021
+city: Zaragoza
+country: Spain
 disqus: username
 google_analytics: UA-69391421-1
 
